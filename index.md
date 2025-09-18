@@ -89,3 +89,10 @@ layout: default
 
 　　**最后说一句**：买张本地卡，不仅是图个便宜流量，更是你真正融入当地生活的开始。用它来叫一辆本地出租车、联系民宿老板、或者在迷路时勇敢地求助，这些体验，远比省下几块钱宝贵得多。祝你在格林纳达，玩得畅快，联得顺畅！
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Grenada eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/grenada-data-plans)
